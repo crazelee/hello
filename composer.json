@@ -1,0 +1,18 @@
+{
+    "name": "crazelee/hello",
+    "description": "echo hello world.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "crazelee",
+            "email": "crazelee@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
